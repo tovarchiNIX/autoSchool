@@ -1,9 +1,12 @@
+package testmethods;
+
 import com.welcome.Hello;
 import java.util.Scanner;
 
 /**
  * Дополнительное задание (для тех, кому основное будет очень легким:-)
- * Создать еще один класс Main2 с методом main(String[] args), который при запуске выводит в консоль “Hello, world!”.
+ * Создать еще один класс Main2 с методом main(String[] args), который при запуске выводит в консоль
+ * “Hello, world!”.
  * Создать отдельный пакет ‘com.welcome’. В нем создать класс Hello, туда добавить методы:
  * setupName(String name) - присваивает внутренней private переменной имя человека,
  * welcome() - формирует и выводит в консоль приветствие "Hello, %name%" (имя должно подставляться),
@@ -18,8 +21,9 @@ public class Main2 {
         System.out.println("Hello, world!");
         System.out.println("What's your name?");
         Scanner consoleScanner = new Scanner(System.in);
-        Hello.setupName(consoleScanner.nextLine());
-        Hello.welcome();
-        Hello.byeBye();
+        Hello obj = new Hello();
+        obj.setupName(consoleScanner.nextLine());
+        obj.welcome();
+        obj.byeBye();
     }
 }

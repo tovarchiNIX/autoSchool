@@ -1,3 +1,5 @@
+package testmethods;
+
 import java.util.Scanner;
 
 /**
