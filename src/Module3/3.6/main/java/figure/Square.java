@@ -1,7 +1,6 @@
 package figure;
 
 import java.util.Random;
-
 public class Square extends BaseFigure {
 
     private String name;

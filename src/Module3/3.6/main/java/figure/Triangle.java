@@ -1,7 +1,6 @@
 package figure;
 
 import java.util.Random;
-
 public class Triangle extends BaseFigure {
 
     private String name;
