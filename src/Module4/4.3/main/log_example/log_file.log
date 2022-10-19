@@ -1,0 +1,13 @@
+2022-10-19 18:39:28 [INFO] [CLASS: DogLogger ROW: 9] - Starting process of creating a dog instance...
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 28] - Setting a name for a dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 18] - Name has been assigned to a dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 34] - Setting a sound for a dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 20] - A dog made some sound
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 40] - Setting age for a dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 22] - Age has been assigned to a dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 45] - Setting friendliness for a dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 24] - Friendliness assigned to a dog
+2022-10-19 18:39:28 [INFO] [CLASS: DogLogger ROW: 11] - Dog instance created!
+2022-10-19 18:39:28 [INFO] [CLASS: DogLogger ROW: 12] - Showing all info about the dog
+2022-10-19 18:39:28 [TRACE] [CLASS: Dog ROW: 71] - Showing all info about a dog
+2022-10-19 18:39:28 [INFO] [CLASS: DogLogger ROW: 14] - Info about a dog is displayed
