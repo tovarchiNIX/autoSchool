@@ -47,26 +47,6 @@ public class Dog {
         return friendliness = states[random.nextInt(states.length)];
     }
 
-//    public String getName() {
-//        logger.trace("Getting a name for a dog");
-//        return name;
-//    }
-//
-//    public String getSound() {
-//        logger.trace("Getting a sound for a dog");
-//        return sound;
-//    }
-//
-//    public int getAge() {
-//        logger.trace("Getting age for a dog");
-//        return age;
-//    }
-//
-//    private String getFriendliness() {
-//        logger.trace("Getting friendliness for a dog");
-//        return friendliness;
-//    }
-
     public void showAllInfo() {
         logger.trace("Showing all info about a dog");
         System.out.println(name);
