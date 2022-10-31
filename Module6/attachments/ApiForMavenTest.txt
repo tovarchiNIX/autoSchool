@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ApiForMavenTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.496 s - in ApiForMavenTest
+testFourth(ApiForMavenTest)  Time elapsed: 7.403 s
+testThird(ApiForMavenTest)  Time elapsed: 7.495 s
+testSecond(ApiForMavenTest)  Time elapsed: 7.482 s
+testFirst(ApiForMavenTest)  Time elapsed: 7.387 s

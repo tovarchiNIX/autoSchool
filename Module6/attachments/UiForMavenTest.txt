@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: UiForMavenTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.619 s - in UiForMavenTest
+testApple(UiForMavenTest)  Time elapsed: 17.584 s
+testAmazon(UiForMavenTest)  Time elapsed: 18.619 s

@@ -1,0 +1,8 @@
+***Комманда для запуска всех тестов***
+mvn -Dthreadcount=2 test
+
+***Комманда для запуска ApiForMavenTest***
+mvn -Dthreadcount=2 -Dtest=ApiForMavenTest test
+
+***Комманда для запуска UiForMavenTest***
+mvn -Dthreadcount=2 -Dtest=UiForMavenTest test
