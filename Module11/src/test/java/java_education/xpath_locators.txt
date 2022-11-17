@@ -1,0 +1,10 @@
+searchField = //input[@id='s']
+testCasesMenuItem = //ul[@id='main-nav']/li/a[text()='Test Cases']
+pullDownButton = //a[@class='pull-down']
+filterButton = //button[@type='submit']
+javaScriptLink = //ul[@class='product-categories']/li/a[text()='JavaScript']
+saleItemLink = //ul[@class='products masonry-done']/li/a/span[text()='Sale!']
+htmlFormsPriceLabel = //h3[text()='HTML5 Forms']/parent::a//span[@class='woocommerce-Price-amount amount']/text()
+sortByNewnessDropdownValue = //select[@name='orderby']/option[@value='date']
+subscribeHereField = //input[@type='email']
+footerYearLabelText = //footer[@id='footer']//div[@class='footer-text-inner']/div/text()
